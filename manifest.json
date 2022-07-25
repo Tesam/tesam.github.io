@@ -1,11 +1,11 @@
 {
-    "name": "techi_profile",
-    "short_name": "techi_profile",
+    "name": "tesam_profile",
+    "short_name": "tesam_profile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An application with my profile.",
+    "description": "Maria Samudio Profile",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
