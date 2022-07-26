@@ -54361,7 +54361,7 @@ A.le.prototype={
 aq(){return new A.Ge(B.bv,A.aM([B.bv,B.E5,B.ca,B.xH,B.cb,B.Kn,B.cc,B.E8],t.hC,t.cl),B.o)}}
 A.Ge.prototype={
 hy(a){this.an(new A.a0U(this,a))},
-H(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=b.O(t.w).f.a,g=h.a<=800,f=g?A.a56(!1,B.W,i,0,i,i,B.r3,i):i,e=t.p,d=A.a([],e)
+H(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=b.O(t.w).f.a,g=h.a<=800,f=g?A.a56(!1,B.W,!0,0,i,i,B.r3,i):i,e=t.p,d=A.a([],e)
 if(!g){s=A.bX(h)?125:250
 r=A.dN(i,A.bX(h)?i:20,i)
 q=A.bX(h)?B.E:B.F
@@ -54458,7 +54458,7 @@ A.Do.prototype={
 H(a,b){var s,r,q,p,o=this,n=null,m="Let\u2019s be in contact on",l=b.O(t.w).f.a,k=l.a<=800
 if(k)s=15
 else s=A.bX(l)?30:150
-if(k)r=25
+if(k)r=40
 else r=A.bX(l)?25:0
 q=t.p
 r=A.a([A.dN(n,r,n)],q)
